@@ -32,5 +32,4 @@
 <p align="center">
 <a href="https://twitter.com/san_17s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="san_17s" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanjay-sathyanarayanan-3a6829223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-sathyanarayanan-3a6829223/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanjaysathyanarayanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjaysathyanarayanan" height="30" width="40" /></a>
 </p>
