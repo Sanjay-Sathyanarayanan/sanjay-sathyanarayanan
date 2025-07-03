@@ -8,11 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/0xsanjays" target="blank"><img src="https://img.shields.io/twitter/follow/san_17s?logo=twitter&style=for-the-badge" alt="san_17s" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs and exploring the Blockchain space**
-
-- 👯 I’m looking to collaborate on **web development projects**
-  
-- ⚡ I love to learn and explore new technologies.
+- 🌱 Currently diving deep into **Blockchain development** and **Zero-Knowledge Proofs (ZK)**
+- 🛠️ I enjoy working on projects that combine **smart contracts**, **secure systems**, and **great user experiences**
+- 👯 Always open to collaborating on **web3**, **dApps**, or **full-stack** projects
+- ⚡ I’m a lifelong learner who loves to build, break, and share what I learn
 
 
   ### ✍️ Random Dev Quote
