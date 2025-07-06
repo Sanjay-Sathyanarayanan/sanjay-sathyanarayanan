@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjay-sathyanarayanan" alt="sanjay-sathyanarayanan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/0xsanjays" target="blank"><img src="https://img.shields.io/twitter/follow/san_17s?logo=twitter&style=for-the-badge" alt="san_17s" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xsanjays" target="blank"><img src="https://img.shields.io/twitter/follow/0xsanjays?logo=twitter&style=for-the-badge" alt="0xsanjays" /></a> </p>
 
 - 🌱 Currently diving deep into **Blockchain development** and **Zero-Knowledge Proofs (ZK)**
 - 🛠️ I enjoy working on projects that combine **smart contracts**, **secure systems**, and **great user experiences**
